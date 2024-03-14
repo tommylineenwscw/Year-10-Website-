@@ -76,7 +76,59 @@ marquee {
 
 }
 .lr2 {
+    border: solid 2px ; 
+    border-color: chocolate; 
+    font-family: cursive;
+    text-align: center; 
+} 
+
+.grd2 { 
+    border: solid 2px ; 
+    border-color: purple; 
+    font-family: cursive; 
+    text-align: center;
     
+} 
+
+.kanye { 
+    border: solid 2px ;
+    border-color: aqua; 
+    height:220px; 
+    width: 220px; 
+    display:block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 20%
+} 
+.kanye2 { 
+    border: solid 2px ; 
+    border-color: aqua ; 
+    font-family: cursive; 
+    text-align: center; 
 }
 
 
+h6 { 
+    color: white;
+} 
+
+h4 { 
+    color: white ; 
+} 
+.drp { 
+    color: white ; 
+    font-family: cursive; 
+    text-align: center;
+} 
+
+.name 
+{ color: white ;
+text-align:center 
+
+} 
+
+.tile { 
+    color: white; 
+    font-size: 90px ; 
+    text-align: center;
+}
