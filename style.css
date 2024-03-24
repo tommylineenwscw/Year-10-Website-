@@ -127,8 +127,70 @@ text-align:center
 
 } 
 
+
 .tile { 
     color: white; 
     font-size: 90px ; 
     text-align: center;
+}  
+
+.hrt { 
+    background-color: #c2cece ;
 } 
+
+.hrt2 {color:firebrick; 
+font-size: 85px; 
+text-align: center; } 
+
+.hrt3 { border: solid 2px ; 
+border-color: white ; 
+height: 500px ;
+width: 500px; 
+display:block; 
+margin-left: auto; 
+margin-right: auto; 
+} 
+
+.hrt4 { 
+    border: solid 2px; 
+    border-color: white; 
+    text-align: center; 
+    font-family: cursive; 
+    color: firebrick; 
+    font-size: 25px;
+} 
+
+.link { 
+font-size: 40px; 
+color: white; 
+text-align: center; 
+
+} 
+ 
+.mbd { 
+    background-color: red; 
+} 
+
+.link2 { 
+    font-size: 40px; 
+    color: firebrick;
+    text-align: center; 
+} 
+
+.mbd { 
+color:darkgoldenrod;  
+font-size: 85px; 
+text-align: center;
+
+} 
+
+.mbd2{ 
+    border: solid 2px; 
+    border-color: darkgoldenrod; 
+    height: 500px; 
+    width: 500px ;
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+
+}
