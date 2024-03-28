@@ -92,9 +92,9 @@ marquee {
 
 .kanye { 
     border: solid 2px ;
-    border-color: aqua; 
-    height:220px; 
-    width: 220px; 
+    border-color: white; 
+    height:300px; 
+    width: 400x; 
     display:block; 
     margin-left: auto; 
     margin-right: auto; 
@@ -102,7 +102,7 @@ marquee {
 } 
 .kanye2 { 
     border: solid 2px ; 
-    border-color: aqua ; 
+    border-color: white ; 
     font-family: cursive; 
     text-align: center; 
 }
@@ -178,7 +178,7 @@ text-align: center;
 } 
 
 .mbd { 
-color:darkgoldenrod;  
+color: gold;  
 font-size: 85px; 
 text-align: center;
 
@@ -186,11 +186,114 @@ text-align: center;
 
 .mbd2{ 
     border: solid 2px; 
-    border-color: darkgoldenrod; 
+    border-color: gold; 
     height: 500px; 
     width: 500px ;
     display: block; 
     margin-left: auto; 
     margin-right: auto;
 
+} 
+
+.mbdtext { 
+
+
+border: solid 2px; 
+border-color:gold; 
+text-align: center; 
+font-family: cursive; 
+color: gold; 
+font-size: 25px;
+} 
+
+.mbheading { 
+text-align: center; 
+font-family: cursive; 
+color:gold; 
+font-size: 10px; 
+} 
+
+h2 { 
+
+    color:white ;
+    text-align: center; 
+
+    
+} 
+
+.cldlink 
+{ 
+color: orange ;
+font-family: cursive; 
+font-size: 25px; 
+text-align: center;
+
+} 
+
+.hrtblink { 
+color: #c2cece; 
+font-size: 25px ; 
+text-align: center;
+
+
+} 
+
+.mbdtflink { 
+color: red; 
+font-size: 25px; 
+text-align: center; 
+
+
 }
+
+.yeezustitle  
+{ 
+font-size: 85px; 
+color: white; 
+text-align: center; 
+
+
+} 
+
+.yeezuspage { 
+
+    background-color: #c2cece;
+} 
+
+.mbdlinks { 
+    color: gold; 
+    text-align: center; 
+    font-size: 25px; 
+} 
+
+.yeezuslink { 
+    color: white; 
+    font-size: 25px;
+} 
+
+.yeezuspic { 
+border: solid 2px; 
+border-color: white; 
+height: 500px; 
+width: 500px; 
+display: block; 
+margin-left: auto; 
+margin-right: auto; 
+
+} 
+
+.yeezustext { 
+    border: solid 2px; 
+    border-color:white;  
+    text-align: center; 
+    font-family: cursive; 
+    color: white; 
+    font-size: 25px;
+
+}
+
+.tloplink { 
+color:orange ;
+font-family: cursive; 
+font-size: 25px;}
+
